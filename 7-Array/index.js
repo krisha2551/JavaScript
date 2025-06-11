@@ -6,7 +6,7 @@ let arr = []
 arr[0] = 20;
 arr[1] = 40;
 
-arr.push("alishan")
+arr.push("krisha")
 
 arr[5] = 27
 
